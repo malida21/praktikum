@@ -4,7 +4,7 @@
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>Mahasiswa oleh Gia Riady dan 2310020160</title>
+    <title>Mahasiswa oleh Gia Riady dan 21110020034</title>
     <!-- Bootstrap CSS -->
     <link href="https://maxcdn.bootstrapcdn.com/bootstrap/4.5.2/css/bootstrap.min.css" rel="stylesheet">
     <style>
@@ -17,7 +17,7 @@
 
 <body>
     <div class="container">
-        <h1 class="text-center">Selamat Datang di Web Gita Riady</h1>
+        <h1 class="text-center">Selamat Datang di Web Clara Maria</h1>
         <a class="btn btn-primary mb-3" href="<?php echo site_url('prodi/tambah') ?>">Tambah</a>
         <table class="table table-bordered">
             <thead class="thead-dark">
