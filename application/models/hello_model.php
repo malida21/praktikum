@@ -6,12 +6,12 @@ class Hello_model extends CI_Model
 
     public function hello_nim()
     {
-        echo "Hello Perkenalkan Saya 21110020034";
+        echo "Hello Perkenalkan Saya 2110020096";
     }
 
 
     public function hello_mvc()
     {
-        return "ini menggunakan MVC buatan 21110020034";
+        return "ini menggunakan MVC buatan 2110020096";
     }
 }

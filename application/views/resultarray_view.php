@@ -4,11 +4,11 @@
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>Mahasiswa oleh Gia Riady dan 21110020034</title>
+    <title>Mahasiswa oleh Gia Riady dan 2110020096</title>
 </head>
 
 <body>
-    <h1>Selamat Datang di Web Clara Maria</h1>
+    <h1>Selamat Datang di Web Malida</h1>
     <table border="3">
         <thead>
             <tr>

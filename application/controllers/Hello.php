@@ -6,9 +6,9 @@ class Hello extends CI_Controller
 
     public function index()
     {
-        echo "Hello Perkenalkan Saya Clara Maria";
+        echo "Hello Perkenalkan Saya Malida";
     }
-    public function hello_21110020034()
+    public function hello_2110020096()
     {
         $this->load->model('hello_model');
         $data = $this->hello_model->hello_nim();

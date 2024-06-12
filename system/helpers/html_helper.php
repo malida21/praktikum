@@ -220,7 +220,7 @@ if ( ! function_exists('doctype'))
 	/**
 	 * Doctype
 	 *
-	 * Generates a page document type declaration
+	 * Generates a page document type deMalidation
 	 *
 	 * Examples of valid options: html5, xhtml-11, xhtml-strict, xhtml-trans,
 	 * xhtml-frame, html4-strict, html4-trans, and html4-frame.

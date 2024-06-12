@@ -4,7 +4,7 @@
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>Tambah Mahasiswa oleh Clara Dan 21110020034</title>
+    <title>Tambah Mahasiswa oleh Malida Dan 2110020096</title>
 </head>
 
 <body>

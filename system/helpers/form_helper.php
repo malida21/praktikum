@@ -53,7 +53,7 @@ defined('BASEPATH') OR exit('No direct script access allowed');
 if ( ! function_exists('form_open'))
 {
 	/**
-	 * Form Declaration
+	 * Form DeMalidation
 	 *
 	 * Creates the opening portion of the form.
 	 *
@@ -143,7 +143,7 @@ if ( ! function_exists('form_open'))
 if ( ! function_exists('form_open_multipart'))
 {
 	/**
-	 * Form Declaration - Multipart type
+	 * Form DeMalidation - Multipart type
 	 *
 	 * Creates the opening portion of the form, but with "multipart/form-data".
 	 *
